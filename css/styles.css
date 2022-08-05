@@ -160,7 +160,7 @@
 }
 
 #btn-projects:hover {
-    background-color: transparent;
+    background-color: var(--main-text-color);
 }
 
 #skills-section-title {
