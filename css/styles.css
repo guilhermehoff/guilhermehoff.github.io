@@ -9,12 +9,13 @@
 
 /* Variables */
 :root {
-    --main-color: #54b689;
+    --main-color: #FCCD11;
     --main-text-color: #FFF;
     --border-color: #999;
     --bio-bg-color: #1e2a3a;
     --bio-border-color: #293544;
     --about-bg-color: #111821;
+    --button-text-color: #000;
 }
 
 /*General*/
@@ -134,7 +135,7 @@
 #btn-projects {
     font-size: bold;
     font-size: 16px;
-    color: var(--main-text-color);
+    color: var(--button-text-color);
     background-color: var(--main-color);
     border: 2px solid var(--main-color);
     border-radius: 5px;
